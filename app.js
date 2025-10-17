@@ -1,5 +1,5 @@
 // Replace this URL with your actual backend URL from Render
-const backend = "https://your-login-backend.onrender.com";
+const backend = "https://comedicalpathway.onrender.com";
 
 const message = document.getElementById("message");
 
